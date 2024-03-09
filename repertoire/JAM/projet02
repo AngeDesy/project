@@ -1,0 +1,3 @@
+#!/bin/ bash
+toilet -f smblock --filter metal 'BONJOUR WECODE'
+exit 0

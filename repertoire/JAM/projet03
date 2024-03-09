@@ -1,0 +1,4 @@
+#!/bin/bash
+jp2a CR7.png --colors
+exit 0
+
